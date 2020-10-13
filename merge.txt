@@ -1,1 +1,2 @@
 totally different content to merge later
+new line added in branch b1 to check conflict
