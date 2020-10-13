@@ -1,2 +1,0 @@
-This file is going to conflict the changes
-Adding new line in branch b1
