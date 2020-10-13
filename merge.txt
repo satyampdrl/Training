@@ -1,2 +1,3 @@
 content to be append
 totally different content to merge later
+new line added in master branch for merging conflict
