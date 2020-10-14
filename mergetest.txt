@@ -1,1 +1,2 @@
 This file content is going to be merge conflict
+Adding a line branch b1
